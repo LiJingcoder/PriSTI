@@ -27,5 +27,5 @@ model:
   timeemb: 128
   featureemb: 16
   target_strategy: "hybrid"
-  use_guide: false
+  use_guide: true
   mask_sensor: []
